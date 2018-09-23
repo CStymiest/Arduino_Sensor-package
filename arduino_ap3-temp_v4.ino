@@ -116,7 +116,7 @@ void loop() {
   // Satellite transfer
   ap3transmes(mes,mes2);
   //digitalWrite(LED_BUILTIN, LOW);  
-  delay(600000);
+  delay(3600000);
 
 }
 
