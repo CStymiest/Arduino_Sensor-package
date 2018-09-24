@@ -1,5 +1,5 @@
 // Temperature sensor part//////
-// Bingwei 08212018: Improving program work with either AP3 or RS485 monitor. Bingwei //
+// Bingwei 08212018: Improving program work with either AP3 or RS485 monitor. Includes space after ylb for after Jan2018 AP3 units. //
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
