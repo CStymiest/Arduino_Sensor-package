@@ -1,5 +1,5 @@
 // Temperature sensor part//////
-// Improving program work with either AP3 or RS485 monitor. Bingwei //
+// Cassie 09242018: Adjusted frequency of reports to hourly and removed space after ylb for Pre-Jan2018 AP3 units. Bingwei 08212018: Improving program work with either AP3 or RS485 monitor. //
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
